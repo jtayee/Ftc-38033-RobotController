@@ -10,7 +10,6 @@ public class BasicTeleOp extends LinearOpMode {
     public void runOpMode() {
         telemetry.addData("Sync Status", "Successfully received by team!");
         telemetry.update();
-        bigatriga.com
 
         waitForStart();
 
